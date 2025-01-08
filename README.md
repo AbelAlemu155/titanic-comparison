@@ -1,5 +1,4 @@
-# titanic-comparison
-# README: Titanic Dataset Model Comparison
+# Titanic Dataset Model Comparison
 
 This project demonstrates the comparison of different machine learning models for predicting survival on the Titanic using the `titanic3.csv` dataset. The main focus is on hyperparameter tuning, model fitting, and performance evaluation using metrics like cross-validation accuracy and ROC-AUC scores.
 
